@@ -1,0 +1,5 @@
+body {
+  background: var(--bs-primary-text-emphasis);
+  --bs-body-font-weight: 400px;
+}
+
