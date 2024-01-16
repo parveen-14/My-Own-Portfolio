@@ -55,3 +55,22 @@
   border-radius: 50%;
 }
 
+.my-text {
+  background-color: var(--bs-primary-text-emphasis);
+}
+
+div h2 {
+  background-color: var(--bs-primary-text-emphasis);
+}
+
+h2 {
+  color: yellow;
+}
+
+.rounded h2 {
+  color: #ffff00;
+}
+
+h2 {
+}
+

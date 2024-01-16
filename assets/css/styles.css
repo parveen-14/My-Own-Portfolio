@@ -1,5 +1,29 @@
 body {
-  background: var(--bs-primary-text-emphasis);
+  /*background: var(--bs-primary-text-emphasis);*/
   --bs-body-font-weight: 400px;
+}
+
+div h1 h2 {
+}
+
+.container .row .div {
+}
+
+.container .row .div .h1 .h2 .h3 {
+  background-color: #ff0011;
+}
+
+h1 {
+  background-color: var(--bs-primary-text-emphasis);
+  padding: 0;
+  margin-block: 0;
+}
+
+h3 {
+  background-color: var(--bs-body-bg);
+}
+
+div {
+  background-color: var(--bs-body-bg);
 }
 
